@@ -13,6 +13,6 @@
 
 
   
-
-<img align="center" width="230" height="230" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
-
+<p align="center">
+<img width="230" height="230" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
+</p>
