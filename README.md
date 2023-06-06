@@ -14,4 +14,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
+  <img width="230" height="450" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
 </picture>
