@@ -10,9 +10,7 @@
 ***With the Minecraft server project, players can immerse themselves in a highly customized Minecraft world that offers a vast array of additional content and gameplay possibilities. Whether it's building impressive structures, embarking on epic adventures, or engaging in multiplayer interactions, this modded Minecraft server provides an enhanced and unique gaming experience.***
 
 
-<picture></picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
-  <img width="230" height="450" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
-</picture>
+
+  <img width="230" height="230" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
+
