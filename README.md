@@ -8,3 +8,6 @@
 ***Running the "./run.sh" command executes a script that sets up and launches the Minecraft server with all the configured mods. The script takes care of necessary dependencies, configurations, and ensures the smooth operation of the server.***
 
 ***With the Minecraft server project, players can immerse themselves in a highly customized Minecraft world that offers a vast array of additional content and gameplay possibilities. Whether it's building impressive structures, embarking on epic adventures, or engaging in multiplayer interactions, this modded Minecraft server provides an enhanced and unique gaming experience.***
+
+
+<picture>https://www.google.com/url?sa=i&url=https%3A%2F%2Fminecraftfaces.com%2Fcreeper-face%2F&psig=AOvVaw17KiyYDTeeThqEWNjJzPwg&ust=1686161814004000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCi9KOgr_8CFQAAAAAdAAAAABAZ</picture>
