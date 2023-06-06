@@ -1,9 +1,5 @@
                                                    # minecraft-server
-                                                   1.12.2
-                                                   100+ mods
-                                                   run "./run.sh" 
-
-
+                                            (1.12.2 - 100+ mods - run "./run.sh" )
 
 ***The Minecraft server project is a setup that runs a version 1.12.2 server with over 100 mods. To start the server, you simply need to execute the "./run.sh" command. This project provides a highly customized and feature-rich Minecraft experience by incorporating a wide range of mods into the server.
 
