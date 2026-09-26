@@ -1,18 +1,28 @@
-                                                   # minecraft-server
-                                            (1.12.2 - 100+ mods - run "./run.sh" )
+# Modded Minecraft Server 1.12.2
 
-***The Minecraft server project is a setup that runs a version 1.12.2 server with over 100 mods. To start the server, you simply need to execute the "./run.sh" command. This project provides a highly customized and feature-rich Minecraft experience by incorporating a wide range of mods into the server.***
+A historical Minecraft 1.12.2 server snapshot configured with a large mod collection.
 
-***By utilizing version 1.12.2 of Minecraft, players can enjoy an extensive collection of mods that add new items, blocks, gameplay mechanics, and functionalities to the game. These mods can enhance various aspects of gameplay, including exploration, crafting, combat, automation, and more.***
+## Run
 
-***Running the "./run.sh" command executes a script that sets up and launches the Minecraft server with all the configured mods. The script takes care of necessary dependencies, configurations, and ensures the smooth operation of the server.***
+The repository includes Linux and Windows launch scripts:
 
-***With the Minecraft server project, players can immerse themselves in a highly customized Minecraft world that offers a vast array of additional content and gameplay possibilities. Whether it's building impressive structures, embarking on epic adventures, or engaging in multiplayer interactions, this modded Minecraft server provides an enhanced and unique gaming experience.***
+```bash
+chmod +x run.sh
+./run.sh
+```
 
+Before starting the server:
 
+1. Install the Java version required by the selected Forge/modpack build.
+2. Review the memory settings in the launch script.
+3. Read the Minecraft EULA and set `eula=true` only if you agree to it.
+4. Review ports, operator permissions, whitelist settings, and server properties.
+5. Back up the world outside the repository.
 
+## Repository hygiene
 
-  
-<p align="center">
-<img width="230" height="230" src="https://minecraftfaces.com/wp-content/bigfaces/big-creeper-face.png">
-</p>
+A production server repository should normally contain reproducible configuration and automation—not runtime data. World saves, logs, caches, generated libraries, server JARs, and player data should live in private storage or release artifacts.
+
+Recommended next step: rebuild this project as a minimal configuration repository with a documented mod manifest and an automated download/bootstrap process.
+
+> This snapshot may contain historical runtime and player data. Review and sanitize it before sharing or deploying.
