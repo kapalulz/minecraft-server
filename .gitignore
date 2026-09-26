@@ -1,0 +1,26 @@
+# Runtime world and player data
+world/
+logs/
+usercache.json
+usernamecache.json
+ops.json
+whitelist.json
+banned-ips.json
+banned-players.json
+
+# Generated runtime data
+crash-reports/
+backups/
+*.log
+*.log.gz
+*.lck
+.mixer.out
+.mixin.out
+
+# Local and downloaded artifacts
+*.jar
+libraries/
+
+# Environment
+.env
+.env.*
